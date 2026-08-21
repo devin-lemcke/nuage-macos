@@ -1,11 +1,14 @@
 <p align="center">
-<img height="300" width="300" src="https://raw.githubusercontent.com/lbrndnr/nuage-macos/master/Nuage/Assets.xcassets/AppIcon.appiconset/AppIcon512@2x.png" />
+<img height="300" width="300" src="https://github.com/lbrndnr/nuage-macos/raw/main/Nuage/Assets.xcassets/AppIcon.appiconset/AppIcon512@2x.png" />
 </p>
 
 <h1 align="center">Nuage</h1>
 <p align="center">A native SoundCloud app for macOS, written in SwiftUI</p>
 
 ---
+
+
+
 
 [![Twitter: @lbrndnr](https://img.shields.io/badge/Twitter-@lbrndnr-blue.svg?style=flat)](https://twitter.com/lbrndnr)
 [![Twitter: @lbrndnr](https://img.shields.io/badge/Mastodon-@lerboe@mastodon.social-purple.svg?style=flat)](https://mastodon.social/@lerboe)
